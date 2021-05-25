@@ -1,0 +1,19 @@
+Profondeur 5
+Heur 6
+Cat 1 : winrate 0.622222 null 0.017284
+Cat 2 : winrate 0.620576 null 0.017284
+Heur 4
+Cat 3 : winrate 0.520988 null 0.000823
+Cat 4 : winrate 0.470782 null 0.001646
+
+Heur 9
+win 0.949
+win 0.949
+Heur 10
+win 0.968
+win 0.968
+
+
+
+Profondeur 8
+
